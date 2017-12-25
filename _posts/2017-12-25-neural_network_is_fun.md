@@ -1,3 +1,8 @@
+---
+title: Neural net work is fun.
+description: This is the third test post.
+header: Neural net work is fun
+---
 #Neural network is fun
 
  Xin chào tất cả các bạn , hôm nay mình sẽ viết một bài giới thiệu về neural network và backpropagation, mục đích của mình là chia sẻ những gì mình học được và giúp các bạn mới bắt đầu tìm hiểu deeplearning có thể tiếp cận một cách dễ dàng hơn.
