@@ -26,3 +26,7 @@ REAL: Knows that 70 percent of data science is usually getting your data ready f
 FAKE: Thinks data preparation is just an overture to the real stuff.
 
 And finally data scientists, or lets say professionals who have been deriving insight from data for a living, generally tend to realize that they work in a rather fluid industry with lots of cross field feedback. Most data scientists tend to have (on top of their technical acumen) domain specific experience (i.e. experience with the real world process that generates the data they have to work with). This means that they understand the data generating process and can anticipate problems that can emerge during the data collection and/or processing. They tend to possess a degree of natural curiosity to get them interested in the task and do some research about the specific domain (at least I do).
+
+
+
+Reference from Eser Sekercioglu, Chief Analyst at DataIst (2012-present)
